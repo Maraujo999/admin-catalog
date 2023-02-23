@@ -1,0 +1,6 @@
+rootProject.name = 'fc4-admin-do-catalogo'
+include 'application'
+include 'domain'
+include 'infraestructure'
+
+
